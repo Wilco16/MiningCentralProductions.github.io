@@ -1,0 +1,96 @@
+.main {
+background-color: red;
+}
+
+.header {
+    background-color: rgba(255, 255, 255, 0.46);
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    position: absolute;
+    top: 0;
+    padding-right: 60.875rem;
+    box-shadow: -19px -2px 20px 7px rgba(5, 4, 3, 0.55);
+    height: 14rem;
+}
+.nav-bar {
+    font-size: 20px;
+    visibility: visible;
+    display:inline;
+    list-style: none;
+
+}
+.nav-bar-item {
+    color: rgba(14, 41, 88, 0.93);
+    font-weight: bold;
+    letter-spacing: 0.59rem;
+    font-family: 'Syncopate', sans-serif;
+    display: inline;
+    padding: 20px;
+}
+
+.nav-bar-item:hover {
+  background-color: rgba(255, 255, 255, 0.46);
+}
+
+.nav-bar-pos{
+    display: inline-flex;
+    position: absolute;
+    top: 11rem;
+    left: 45rem;
+}
+
+.dropdown-button:hover, .dropdown-button:focus {
+    background-color: rgba(255, 255, 255, 0.46);
+}
+  .dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    top: 2rem;
+    background-color: rgba(255, 255, 255, 0.70);
+    min-width: 1rem;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-button {
+    border: 0px;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgba(14, 41, 88, 0.93);
+    font-weight: bold;
+    letter-spacing: 0.59rem;
+    font-family: 'Syncopate', sans-serif;
+    display: inline;
+    padding: 20px;
+    font-size: 1.2rem;
+    position: absolute;
+    top: -1.2rem;
+}
+
+.show {display:block;}
+
+.current-page {
+  background-color: rgba(2, 56, 81, 0.13);
+}
+
+.dropdown-item-in-nav {
+  display: list-item;
+}
+
+.logo {
+    position: relative;
+    left: 59rem;
+    max-width: 8em;
+    max-height: 8em;
+}
+
+a {
+text-decoration: none;
+color: white;
+font-weight: bold;
+}
