@@ -1,5 +1,14 @@
 .main {
-background-color: red;
+  background-color: white;
+  color: black;
+  border-radius: 0.25rem;
+  min-width: 56.25rem;
+  max-width: 40em;
+  min-height: 30rem;
+  max-height: 50em;
+  margin: 3.375rem auto;
+  padding: 17.25em 7.25rem;
+  box-shadow: 6px 4px 20px 0px #012f43;
 }
 
 .header {
@@ -9,6 +18,7 @@ background-color: red;
     right: 0;
     position: absolute;
     top: 0;
+    width: 10rem;
     padding-right: 60.875rem;
     box-shadow: -19px -2px 20px 7px rgba(5, 4, 3, 0.55);
     height: 14rem;
@@ -24,7 +34,7 @@ background-color: red;
     color: rgba(14, 41, 88, 0.93);
     font-weight: bold;
     letter-spacing: 0.59rem;
-    font-family: 'Syncopate', sans-serif;
+    font-family: 'Lato', sans-serif;
     display: inline;
     padding: 20px;
 }
@@ -34,10 +44,11 @@ background-color: red;
 }
 
 .nav-bar-pos{
+    display: inline;
     display: inline-flex;
     position: absolute;
     top: 11rem;
-    left: 45rem;
+    left: 17rem;
 }
 
 .dropdown-button:hover, .dropdown-button:focus {
@@ -64,7 +75,7 @@ background-color: red;
     color: rgba(14, 41, 88, 0.93);
     font-weight: bold;
     letter-spacing: 0.59rem;
-    font-family: 'Syncopate', sans-serif;
+    font-family: 'Lato', sans-serif;
     display: inline;
     padding: 20px;
     font-size: 1.2rem;
@@ -84,13 +95,13 @@ background-color: red;
 
 .logo {
     position: relative;
-    left: 59rem;
+    left: 31rem;
     max-width: 8em;
     max-height: 8em;
 }
 
 a {
 text-decoration: none;
-color: white;
+color: black;
 font-weight: bold;
 }
