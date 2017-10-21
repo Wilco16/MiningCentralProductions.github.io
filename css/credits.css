@@ -40,3 +40,17 @@ font-size: 1.9rem;
 .title {
   font-size: 3rem;
 }
+
+.nosifer {
+  font-family: 'Nosifer', cursive;
+  font-size: 2rem;
+}
+
+.creepster {
+  font-family: 'Creepster', cursive;
+  font-size: 2rem;
+}
+
+.main {
+    padding: 31.25em 7.25rem;
+  }

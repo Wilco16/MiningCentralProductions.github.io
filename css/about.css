@@ -32,3 +32,13 @@ color: #d1ebf7;
 #read-more-bt:hover {
   background-color: #97bbcc;
 }
+
+.follow-us-icon {
+  height: 32px;
+  width: 100px;
+}
+.follow-us {
+  display: block;
+  position: absolute;
+  top: 25rem;
+}
