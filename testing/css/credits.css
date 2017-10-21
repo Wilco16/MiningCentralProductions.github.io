@@ -1,0 +1,56 @@
+#title {
+    position: absolute;
+    top: -0.5em;
+    font-size: 2.5rem;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.Syncopate {
+    font-family: 'Syncopate', sans-serif;
+}
+
+.posts {
+    position: absolute;
+    top: 14rem;
+    float: left;
+    font-size: 1.2rem;
+}
+
+.unknown {
+font-family: 'Lato', sans-serif;
+font-size: 1.9rem;
+}
+
+.cabin {
+    font-family: 'Cabin', sans-serif;
+    font-size: 2rem;
+}
+
+.lato {
+    font-family: 'Lato', sans-serif;
+    font-size: 2rem;
+
+}
+
+.title {
+  font-size: 3rem;
+}
+
+.nosifer {
+  font-family: 'Nosifer', cursive;
+  font-size: 2rem;
+}
+
+.creepster {
+  font-family: 'Creepster', cursive;
+  font-size: 2rem;
+}
+
+.main {
+    padding: 31.25em 7.25rem;
+  }
