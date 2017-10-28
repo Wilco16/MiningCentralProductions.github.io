@@ -1,0 +1,41 @@
+body {
+  background-image: url(unknown.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main {
+      background-color: #8A0707;
+}
+
+.heheheheh {
+  font-family: 'Nosifer';
+
+}
+
+.hahaha {
+font-family: 'Creepster', cursive;
+font-size: 2rem;
+}
+
+.ha {
+  text-align: justify;
+}
+
+#hehe {
+  background-color: #8a0707;
+    border: none;
+}
+#hehe:hover {
+    background-color: black;
+    border: none;
+}
+
+#hehe:selection; {
+  border: none;
+}
+
+#wow {
+  cursor: pointer;
+  font-family: 'Nosifer';
+}

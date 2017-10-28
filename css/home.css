@@ -136,4 +136,18 @@ p.image-container {
 
 .mar-font {
   font-family: 'Creepster', cursive;
+  font-weight: bold;
+}
+
+.placeholder {
+  background-color: purple;
+}
+
+.hero-font {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.g4d-font {
+  font-family: 'Cabin', sans-serif;
+  font-weight: bold;
 }
