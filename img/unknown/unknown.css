@@ -39,3 +39,10 @@ font-size: 2rem;
   cursor: pointer;
   font-family: 'Nosifer';
 }
+
+#gameexeone {
+  position: absolute;
+  bottom: 0rem;
+    background: #670404;
+    border: none;
+}

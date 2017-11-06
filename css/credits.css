@@ -19,6 +19,7 @@ a {
     top: 14rem;
     float: left;
     font-size: 1.2rem;
+    display: inline;
 }
 
 .unknown {
@@ -53,4 +54,13 @@ font-size: 1.9rem;
 
 .main {
     padding: 31.25em 7.25rem;
+    overflow: auto;
+  }
+
+  .font {
+    overflow: auto;
+  }
+
+  .people {
+    overflow: auto;
   }

@@ -136,7 +136,7 @@ p.image-container {
 
 .mar-font {
   font-family: 'Creepster', cursive;
-  font-weight: bold;
+
 }
 
 .placeholder {
@@ -149,5 +149,20 @@ p.image-container {
 
 .g4d-font {
   font-family: 'Cabin', sans-serif;
-  font-weight: bold;
+}
+
+.life-font {
+  font-family: 'lato', sans-serif;
+}
+.techmo-font {
+  font-family: "Courier New", Courier, monospace;
+
+}
+
+.che-font {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.admins {
+ font-weight: bold;
 }
